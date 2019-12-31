@@ -5,10 +5,11 @@ def square_array(array)
     org = array[counter] ** 2
     puts org
     counter += 1
-    new_array = org
+    
     return org
   end
   
   end
+  new_array = org
   
   square_array([1,2,3])
