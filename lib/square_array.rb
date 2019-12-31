@@ -5,6 +5,7 @@ def square_array(array)
     org = array[counter] ** 2
     puts org
     counter += 1
+     return org
     new_array = org
      
   end
