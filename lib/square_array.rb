@@ -3,13 +3,13 @@ def square_array(array)
   
   while array[counter] do 
     org = array[counter] ** 2
-    puts org
     counter += 1
-    new_array = org
+   
     
    
      
   end
+  return org
  
   end
   
