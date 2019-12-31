@@ -6,8 +6,9 @@ def square_array(array)
     puts org
     counter += 1
     new_array = org
+    return org
   end
-  return org
+  
   end
   
   square_array([1,2,3])
