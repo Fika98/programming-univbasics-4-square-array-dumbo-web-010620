@@ -4,12 +4,13 @@ def square_array(array)
   while array[counter] do 
     org = array[counter] ** 2
     counter += 1
+     return org
    
     
    
      
   end
-  return org
+ 
  
   end
   
