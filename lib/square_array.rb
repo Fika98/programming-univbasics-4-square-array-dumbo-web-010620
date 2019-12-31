@@ -12,6 +12,5 @@ def square_array(array)
  
  
   end
-   return org
-  
+
   square_array([1,2,3])
